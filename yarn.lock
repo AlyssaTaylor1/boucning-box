@@ -3098,7 +3098,7 @@
     "normalize-path" "^3.0.0"
     "picomatch" "^2.0.4"
 
-"app@*", "app@file:/home/projects/node-fwf6pu/packages/app":
+"app@*", "app@file:/home/projects/node-thgynu/packages/app":
   "resolved" "file:packages/app"
   "version" "0.0.0"
   dependencies:
@@ -6115,7 +6115,7 @@
     "snapdragon" "^0.8.1"
     "to-regex" "^3.0.1"
 
-"expo-app@file:/home/projects/node-fwf6pu/apps/expo":
+"expo-app@file:/home/projects/node-thgynu/apps/expo":
   "resolved" "file:apps/expo"
   "version" "1.0.0"
   dependencies:
@@ -9722,7 +9722,7 @@
   "resolved" "https://registry.npmjs.org/nested-error-stacks/-/nested-error-stacks-2.0.1.tgz"
   "version" "2.0.1"
 
-"next-app@file:/home/projects/node-fwf6pu/apps/next":
+"next-app@file:/home/projects/node-thgynu/apps/next":
   "resolved" "file:apps/next"
   "version" "0.1.0"
   dependencies:
