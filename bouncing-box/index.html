@@ -68,7 +68,7 @@
 			*/
         function update() {
           /* Your Code to Increase positionX by 10 HERE*/
-          positionX = positionX + 10
+          positionX += 10
           moveBoxTo(positionX)
         }
 
@@ -77,8 +77,9 @@
 			it should increase the points total, increase the speed, and move the box to
 			the left side of the screen.
 			*/
-        function handleBoxClick() {}
-        positionX = 0
+        function handleBoxClick() {
+          positionX = 0
+        }
       })()
     </script>
   </body>
